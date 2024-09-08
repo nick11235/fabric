@@ -113,7 +113,7 @@ To install Fabric, [make sure Go is installed](https://go.dev/doc/install), and 
 
 ```bash
 # Install Fabric directly from the repo
-go install github.com/danielmiessler/fabric@latest
+go install github.com/nick11235/fabric@latest
 
 # Run the setup to set up your directories and keys
 fabric --setup
